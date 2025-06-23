@@ -1,3 +1,10 @@
-site_name: My Docs
+site_name: java-note
+site_url: https://laolang2016.github.io/java-note
+site_author: 潼关路边的一只野鬼
+site_description: java 笔记
+
+repo_name: java-note
+repo_url: https://github.com/laolang2016/java-note
+
 theme:
   name: material
