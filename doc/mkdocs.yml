@@ -91,5 +91,10 @@ markdown_extensions:
 
 nav:
   - 主页: index.md
+  - 'java 核心':
+    - 'java_core/a01_summary.md'
+    - juc:
+      - 'java_core/juc/a01_summary.md'
+      - 'java_core/juc/a02_base.md'
   - mkdocs:
     - 'mkdocs/base_user.md'
