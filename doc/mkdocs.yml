@@ -96,5 +96,37 @@ nav:
     - juc:
       - 'java_core/juc/a01_summary.md'
       - 'java_core/juc/a02_base.md'
+    - orm:
+      - mybatis:
+        - 'java_core/orm/mybatis/a01_summary.md'
+        - 'java_core/orm/mybatis/a02_base.md'
+    - '测试相关':
+      - 'java_core/test/a01_summary.md'
+      - 'tdd':
+        - 'java_core/test/tdd/a01_summary.md'
+  - 'C++':
+    - 'cpp/a01_summary.md'
+    - 'STL':
+      - 'cpp/stl/a01_summary.md'
+    - '构建工具':
+      - 'cmake 基本使用':
+        - 'cpp/build/cmake/a01_summary.md'
+        - 'cpp/build/cmake/a02_install.md'
+        - 'cpp/build/cmake/a03_quickstart.md'
+      - 'meson 基本使用':
+        - 'cpp/build/meson/a01_summary.md'
+  - 'GUI':
+    - 'gui/a01_summary.md'
+    - 'java swing':
+      - 'gui/java_swing/a01_summary.md'
+    - 'javafx':
+      - 'gui/javafx/a01_summary.md'
+    - 'qt':
+      - 'gui/qt/a01_summary.md'
+  - '器':
+    - 'tool/a01_summary.md'
+    - 'virtual box':
+      - 'tool/virtualbox/a01_summary.md'
+      - 'tool/virtualbox/a02_linux_mint.md'
   - mkdocs:
     - 'mkdocs/base_user.md'
